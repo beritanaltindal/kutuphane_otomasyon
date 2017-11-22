@@ -1,0 +1,15 @@
+c:\users\altindal\documents\visual studio 2015\Projects\prjKutuphane\prjKutuphane\bin\Debug\prjKutuphane.exe.config
+c:\users\altindal\documents\visual studio 2015\Projects\prjKutuphane\prjKutuphane\bin\Debug\prjKutuphane.exe
+c:\users\altindal\documents\visual studio 2015\Projects\prjKutuphane\prjKutuphane\bin\Debug\prjKutuphane.pdb
+c:\users\altindal\documents\visual studio 2015\Projects\prjKutuphane\prjKutuphane\obj\Debug\prjKutuphane.csprojResolveAssemblyReference.cache
+c:\users\altindal\documents\visual studio 2015\Projects\prjKutuphane\prjKutuphane\obj\Debug\prjKutuphane.Properties.Resources.resources
+c:\users\altindal\documents\visual studio 2015\Projects\prjKutuphane\prjKutuphane\obj\Debug\prjKutuphane.csproj.GenerateResource.Cache
+c:\users\altindal\documents\visual studio 2015\Projects\prjKutuphane\prjKutuphane\obj\Debug\prjKutuphane.exe
+c:\users\altindal\documents\visual studio 2015\Projects\prjKutuphane\prjKutuphane\obj\Debug\prjKutuphane.pdb
+c:\users\altindal\documents\visual studio 2015\Projects\prjKutuphane\prjKutuphane\obj\Debug\prjKutuphane.Anasayfa.resources
+c:\users\altindal\documents\visual studio 2015\Projects\prjKutuphane\prjKutuphane\obj\Debug\prjKutuphane.Login.resources
+c:\users\altindal\documents\visual studio 2015\Projects\prjKutuphane\prjKutuphane\obj\Debug\prjKutuphane.kitapekle.resources
+c:\users\altindal\documents\visual studio 2015\Projects\prjKutuphane\prjKutuphane\obj\Debug\prjKutuphane.kitaplar.resources
+C:\Users\ALTINDAL\Documents\Visual Studio 2015\Projects\prjKutuphane\prjKutuphane\obj\Debug\prjKutuphane.kitapkayit.resources
+c:\users\altindal\documents\visual studio 2015\Projects\prjKutuphane\prjKutuphane\obj\Debug\prjKutuphane.YeniKullanici.resources
+c:\users\altindal\documents\visual studio 2015\Projects\prjKutuphane\prjKutuphane\obj\Debug\prjKutuphane.sifreunuttum.resources

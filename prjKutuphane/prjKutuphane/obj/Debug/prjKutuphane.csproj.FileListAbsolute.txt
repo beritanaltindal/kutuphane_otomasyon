@@ -1,0 +1,56 @@
+c:\users\altindal\documents\visual studio 2015\Projects\prjKutuphane\prjKutuphane\bin\Debug\prjKutuphane.exe.config
+c:\users\altindal\documents\visual studio 2015\Projects\prjKutuphane\prjKutuphane\bin\Debug\prjKutuphane.exe
+c:\users\altindal\documents\visual studio 2015\Projects\prjKutuphane\prjKutuphane\bin\Debug\prjKutuphane.pdb
+c:\users\altindal\documents\visual studio 2015\Projects\prjKutuphane\prjKutuphane\obj\Debug\prjKutuphane.csprojResolveAssemblyReference.cache
+c:\users\altindal\documents\visual studio 2015\Projects\prjKutuphane\prjKutuphane\obj\Debug\prjKutuphane.Properties.Resources.resources
+c:\users\altindal\documents\visual studio 2015\Projects\prjKutuphane\prjKutuphane\obj\Debug\prjKutuphane.csproj.GenerateResource.Cache
+c:\users\altindal\documents\visual studio 2015\Projects\prjKutuphane\prjKutuphane\obj\Debug\prjKutuphane.exe
+c:\users\altindal\documents\visual studio 2015\Projects\prjKutuphane\prjKutuphane\obj\Debug\prjKutuphane.pdb
+c:\users\altindal\documents\visual studio 2015\Projects\prjKutuphane\prjKutuphane\obj\Debug\prjKutuphane.Anasayfa.resources
+c:\users\altindal\documents\visual studio 2015\Projects\prjKutuphane\prjKutuphane\obj\Debug\prjKutuphane.Login.resources
+c:\users\altindal\documents\visual studio 2015\Projects\prjKutuphane\prjKutuphane\obj\Debug\prjKutuphane.kitapekle.resources
+c:\users\altindal\documents\visual studio 2015\Projects\prjKutuphane\prjKutuphane\obj\Debug\prjKutuphane.kitaplar.resources
+C:\Users\ALTINDAL\Documents\Visual Studio 2015\Projects\prjKutuphane\prjKutuphane\obj\Debug\prjKutuphane.kitapkayit.resources
+c:\users\altindal\documents\visual studio 2015\Projects\prjKutuphane\prjKutuphane\obj\Debug\prjKutuphane.YeniKullanici.resources
+c:\users\altindal\documents\visual studio 2015\Projects\prjKutuphane\prjKutuphane\obj\Debug\prjKutuphane.sifreunuttum.resources
+c:\users\altindal\documents\visual studio 2015\Projects\prjKutuphane\prjKutuphane\obj\Debug\prjKutuphane.kullanicibilgileri.resources
+c:\users\altindal\documents\visual studio 2015\Projects\prjKutuphane\prjKutuphane\obj\Debug\prjKutuphane.sifre.resources
+G:\prjKutuphane\prjKutuphane\bin\Debug\prjKutuphane.exe.config
+G:\prjKutuphane\prjKutuphane\obj\Debug\prjKutuphane.exe
+G:\prjKutuphane\prjKutuphane\obj\Debug\prjKutuphane.pdb
+C:\Users\ALTINDAL\Documents\Visual Studio 2015\Projects\prjKutuphane\prjKutuphane\obj\Debug\prjKutuphane.kullanıcıbilgileriadmin.resources
+C:\Users\ALTINDAL\Documents\Visual Studio 2015\Projects\prjKutuphane\prjKutuphane\obj\Debug\prjKutuphane.KitaplarDuzenle.resources
+C:\Users\ALTINDAL\Documents\Visual Studio 2015\Projects\prjKutuphane\prjKutuphane\obj\Debug\prjKutuphane.okuyucuekle.resources
+C:\Users\ALTINDAL\Documents\Visual Studio 2015\Projects\prjKutuphane\prjKutuphane\obj\Debug\prjKutuphane.okuyuculiste.resources
+C:\Users\ALTINDAL\Documents\Visual Studio 2015\Projects\prjKutuphane\prjKutuphane\obj\Debug\prjKutuphane.emanetkitapislemleri.resources
+C:\Users\ALTINDAL\Documents\Visual Studio 2015\Projects\prjKutuphane\prjKutuphane\obj\Debug\prjKutuphane.EmanetListe.resources
+C:\Users\ALTINDAL\Documents\Visual Studio 2015\Projects\prjKutuphane\prjKutuphane\obj\Debug\prjKutuphane.Teslim.resources
+C:\Users\ALTINDAL\Documents\Visual Studio 2015\Projects\prjKutuphane\prjKutuphane\obj\Debug\prjKutuphane.guvenlik.resources
+C:\Users\ALTINDAL\Desktop\prjKutuphane\prjKutuphane\bin\Debug\prjKutuphane.exe.config
+C:\Users\ALTINDAL\Desktop\prjKutuphane\prjKutuphane\obj\Debug\prjKutuphane.exe
+C:\Users\ALTINDAL\Desktop\prjKutuphane\prjKutuphane\obj\Debug\prjKutuphane.pdb
+C:\Users\ALTINDAL\Desktop\prjKutuphane\prjKutuphane\bin\Debug\prjKutuphane.exe
+C:\Users\ALTINDAL\Desktop\prjKutuphane\prjKutuphane\obj\Debug\prjKutuphane.csprojResolveAssemblyReference.cache
+C:\Users\ALTINDAL\Desktop\prjKutuphane\prjKutuphane\obj\Debug\prjKutuphane.Anasayfa.resources
+C:\Users\ALTINDAL\Desktop\prjKutuphane\prjKutuphane\obj\Debug\prjKutuphane.emanetkitapislemleri.resources
+C:\Users\ALTINDAL\Desktop\prjKutuphane\prjKutuphane\obj\Debug\prjKutuphane.EmanetListe.resources
+C:\Users\ALTINDAL\Desktop\prjKutuphane\prjKutuphane\obj\Debug\prjKutuphane.guvenlik.resources
+C:\Users\ALTINDAL\Desktop\prjKutuphane\prjKutuphane\obj\Debug\prjKutuphane.KitaplarDuzenle.resources
+C:\Users\ALTINDAL\Desktop\prjKutuphane\prjKutuphane\obj\Debug\prjKutuphane.kullanıcıbilgileriadmin.resources
+C:\Users\ALTINDAL\Desktop\prjKutuphane\prjKutuphane\obj\Debug\prjKutuphane.kitapekle.resources
+C:\Users\ALTINDAL\Desktop\prjKutuphane\prjKutuphane\obj\Debug\prjKutuphane.kitapkayit.resources
+C:\Users\ALTINDAL\Desktop\prjKutuphane\prjKutuphane\obj\Debug\prjKutuphane.kitaplar.resources
+C:\Users\ALTINDAL\Desktop\prjKutuphane\prjKutuphane\obj\Debug\prjKutuphane.kullanicibilgileri.resources
+C:\Users\ALTINDAL\Desktop\prjKutuphane\prjKutuphane\obj\Debug\prjKutuphane.Login.resources
+C:\Users\ALTINDAL\Desktop\prjKutuphane\prjKutuphane\obj\Debug\prjKutuphane.okuyucuekle.resources
+C:\Users\ALTINDAL\Desktop\prjKutuphane\prjKutuphane\obj\Debug\prjKutuphane.okuyuculiste.resources
+C:\Users\ALTINDAL\Desktop\prjKutuphane\prjKutuphane\obj\Debug\prjKutuphane.Properties.Resources.resources
+C:\Users\ALTINDAL\Desktop\prjKutuphane\prjKutuphane\obj\Debug\prjKutuphane.sifre.resources
+C:\Users\ALTINDAL\Desktop\prjKutuphane\prjKutuphane\obj\Debug\prjKutuphane.sifreunuttum.resources
+C:\Users\ALTINDAL\Desktop\prjKutuphane\prjKutuphane\obj\Debug\prjKutuphane.Teslim.resources
+C:\Users\ALTINDAL\Desktop\prjKutuphane\prjKutuphane\obj\Debug\prjKutuphane.YeniKullanici.resources
+C:\Users\ALTINDAL\Desktop\prjKutuphane\prjKutuphane\obj\Debug\prjKutuphane.csproj.GenerateResource.Cache
+C:\Users\ALTINDAL\Desktop\prjKutuphane\prjKutuphane\bin\Debug\prjKutuphane.pdb
+C:\Users\ALTINDAL\Desktop\Visual Studio projeleri\prjKutuphane\prjKutuphane\bin\Debug\prjKutuphane.exe.config
+C:\Users\ALTINDAL\Desktop\Visual Studio projeleri\prjKutuphane\prjKutuphane\obj\Debug\prjKutuphane.exe
+C:\Users\ALTINDAL\Desktop\Visual Studio projeleri\prjKutuphane\prjKutuphane\obj\Debug\prjKutuphane.pdb
